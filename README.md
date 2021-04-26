@@ -25,3 +25,7 @@ When the new team members info has been entered, the user is asked if they would
 ## Link to video demonstrating the app:
 
 https://vimeo.com/541878590/3279fd7c3a
+
+## Team Profile Generator on GITHUB:
+
+https://polodre.github.io/teamProfileGenerator/
