@@ -1,0 +1,28 @@
+{
+  "name": "_tests_",
+  "version": "1.0.0",
+  "main": "Employee.test.js",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polodre/teamProfileGenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/polodre/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/polodre/teamProfileGenerator#readme"
+}
