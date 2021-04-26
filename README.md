@@ -8,3 +8,20 @@ When the app is launched, the user is prompted to describe the first team member
 
 - This is an example of prompts when the application is started:
   ![Answered Questions](/images/image1.PNG "Answered Questions")
+
+When the new team members info has been entered, the user is asked if they would like to add any additional members. If yes, the user is prompted with the same questions. If not, an HTML file is created with cards displaying the team members information that was entered in the user located in the "outputs" folder, titled "team.html." A screenshot of an example team profile is shown below:
+
+![Team Members](/images/image2.PNG "Team Members")
+
+## Techniques / Technologies Used
+
+- NPM
+- Jest
+- FS
+- Inquirer
+- HTML
+- JAVASCRIPT
+
+## Link to video demonstrating the app:
+
+https://vimeo.com/541878590/3279fd7c3a
